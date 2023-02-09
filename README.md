@@ -1,7 +1,7 @@
 # Capstone
 
 ## Purpose
-This will be the place to put the code for Capstone project. We will also add any related data and other files.
+This will be the place to put the materials and links for the Capstone project.
 
 ## New Feb 9
 
