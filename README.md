@@ -3,7 +3,7 @@ This will be the place to put the materials and links for the Capstone project.
 
 ## New Feb 9
 
-Please fill out this [Introductory asessment](https://forms.gle/mkqHK7KxJPQyVVGd8)
+Please fill out this [Introductory assessment](https://forms.gle/mkqHK7KxJPQyVVGd8)
 
 ## Materials Feb 7
 
